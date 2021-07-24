@@ -6,7 +6,22 @@ An application to predict titanic survival using Gradio UI
 -Gradio UI as user interface.
 
 # Usage:
--pip install -r requirements.txt
+pip install gradio
+pip install pycaret
 
 Example Gradio UI running:
 ![alt text](https://github.com/asyrafzlkln96/titanic-classification-gradio/blob/main/gradio_titanic_screenshot.PNG)
+
+
+# License:
+Pycaret: @Manual{PyCaret,
+    title = {PyCaret: An open source, low-code machine learning library in Python},
+    author = {Moez Ali},
+    year = {2020},
+    month = {July},
+    note = {PyCaret version 2.3},
+    url = {https://www.pycaret.org},
+}
+
+Gradio:
+https://gradio.app/
