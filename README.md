@@ -7,3 +7,6 @@ An application to predict titanic survival using Gradio UI
 
 # Usage:
 -pip install -r requirements.txt
+
+Example Gradio UI running:
+![alt text](http://url/to/img.png)
